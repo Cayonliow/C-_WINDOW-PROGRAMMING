@@ -1,0 +1,9 @@
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Practice_shift\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Practice_shift\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Practice_shift\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

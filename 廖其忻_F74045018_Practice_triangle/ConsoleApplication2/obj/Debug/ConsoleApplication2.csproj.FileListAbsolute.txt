@@ -1,0 +1,8 @@
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Practice_triangle\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Practice_triangle\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Practice_triangle\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

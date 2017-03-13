@@ -1,0 +1,12 @@
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+d:\cayonliow\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Homework 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Homework 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Homework 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Homework 1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Homework 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\CayonLiow\Documents\Visual Studio 2015\Projects\廖其忻_F74045018_Homework 1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
